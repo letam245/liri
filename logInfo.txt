@@ -1,3 +1,24 @@
+Song Name: Stressed Out
+Artist Name: Twenty One Pilots
+Album Name: Blurryface
+Preview Link: https://p.scdn.co/mp3-preview/0e0951b811f06fea9162eb7e95e4bae4802d97af?cid=3226943f8ee34aa0a71e73e5ae450fdf
+
+---------------------------------
+
+Song Name: Ride
+Artist Name: Twenty One Pilots
+Album Name: Blurryface
+Preview Link: https://p.scdn.co/mp3-preview/26fc2318d6ebad09ae7aed7adfce2b28413cea7e?cid=3226943f8ee34aa0a71e73e5ae450fdf
+
+---------------------------------
+
+Song Name: Leave Out All The Rest
+Artist Name: Linkin Park
+Album Name: Minutes To Midnight (Explicit Version)
+Preview Link: https://p.scdn.co/mp3-preview/ebe5e431132a55286d6cd339a0d73cb8f0873ff4?cid=3226943f8ee34aa0a71e73e5ae450fdf
+
+---------------------------------
+
 Title: Mr. Nobody
 Release Year: 2009
 IMDB Rating: 7.9
@@ -9,42 +30,36 @@ Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
 
 ---------------------------------
 
-Title: Soul Surfer
-Release Year: 2011
-IMDB Rating: 7.1
-Rotten Tomatoes Rating: 46%
+Title: Despicable Me 3
+Release Year: 2017
+IMDB Rating: 6.4
+Rotten Tomatoes Rating: 61%
 Country: USA
-Language: EnglishPlot: Teenage surfer Bethany Hamilton overcomes the odds and her own fears of returning to the water after losing her left arm in a shark attack.
-Plot: Teenage surfer Bethany Hamilton overcomes the odds and her own fears of returning to the water after losing her left arm in a shark attack.
-Actors: AnnaSophia Robb, Helen Hunt, Dennis Quaid, Carrie Underwood
+Language: EnglishPlot: Gru meets his long-lost charming, cheerful, and more successful twin brother Dru who wants to team up with him for one last criminal heist.
+Plot: Gru meets his long-lost charming, cheerful, and more successful twin brother Dru who wants to team up with him for one last criminal heist.
+Actors: Steve Carell, Kristen Wiig, Trey Parker, Miranda Cosgrove
 
 ---------------------------------
 
-Song Name: The Sign
-Artist Name: Ace of Base
-Album Name: The Sign (US Album) [Remastered]
-Preview Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=3226943f8ee34aa0a71e73e5ae450fdf
+Title: Despicable Me 2
+Release Year: 2013
+IMDB Rating: 7.4
+Rotten Tomatoes Rating: 73%
+Country: USA, France, Japan
+Language: English, UkrainianPlot: When Gru, the world's most super-bad turned super-dad has been recruited by a team of officials to stop lethal muscle and a host of Gru's own, He has to fight back with new gadgetry, cars, and more minion madness.
+Plot: When Gru, the world's most super-bad turned super-dad has been recruited by a team of officials to stop lethal muscle and a host of Gru's own, He has to fight back with new gadgetry, cars, and more minion madness.
+Actors: Steve Carell, Kristen Wiig, Benjamin Bratt, Miranda Cosgrove
 
 ---------------------------------
 
-Song Name: Numb
-Artist Name: Linkin Park
-Album Name: Meteora
-Preview Link: https://p.scdn.co/mp3-preview/e6ccf7717f8a167bfea4afc1bf7da1a0cd707fbb?cid=3226943f8ee34aa0a71e73e5ae450fdf
-
----------------------------------
-
-Song Name: Heavy / Numb / What I've Done / Breaking the Habit / One More Light / In the End / Leave out All the Rest / Bleed It out (Mashup)
-Artist Name: Future Sunsets
-Album Name: Heavy / Numb / What I've Done / Breaking the Habit / One More Light / In the End / Leave out All the Rest / Bleed It out (Mashup)
-Preview Link: https://p.scdn.co/mp3-preview/16c67edf46b31c7a91a813561ea1a0630f7956a2?cid=3226943f8ee34aa0a71e73e5ae450fdf
-
----------------------------------
-
-Song Name: Leave Out All The Rest
-Artist Name: Linkin Park
-Album Name: Minutes To Midnight (Explicit Version)
-Preview Link: https://p.scdn.co/mp3-preview/ebe5e431132a55286d6cd339a0d73cb8f0873ff4?cid=3226943f8ee34aa0a71e73e5ae450fdf
+Title: School of Rock
+Release Year: 2003
+IMDB Rating: 7.1
+Rotten Tomatoes Rating: 92%
+Country: USA, Germany
+Language: EnglishPlot: After being kicked out of a rock band, Dewey Finn becomes a substitute teacher of a strict elementary private school, only to try and turn it into a rock band.
+Plot: After being kicked out of a rock band, Dewey Finn becomes a substitute teacher of a strict elementary private school, only to try and turn it into a rock band.
+Actors: Jack Black, Adam Pascal, Lucas Papaelias, Chris Stack
 
 ---------------------------------
 
