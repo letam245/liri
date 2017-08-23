@@ -11,7 +11,7 @@ for (var i = 3; i < searchInfo.length; i++) {
     if (i > 3 && i < searchInfo.length) {
         searchThis = searchThis + '+' + searchInfo[i]
     }
-    //if the movie contains only one word
+    //if movie|song name only contain one word
     else {
         searchThis += searchInfo[i];
     }
